@@ -9,8 +9,8 @@ Hi, I'm **Ali Asghar** – a **Consulting ML Engineer** with a passion for turni
 
 You can explore my **Kaggle Portfolio** to see the machine learning projects I've worked on:
 
-- [Sentiment Analysis of Restaurant Reviews](https://www.kaggle.com/code/ialiasghar/sentiment-analysis-of-restaurant-reviews)
-- [Plant Growth Milestone Prediction Using Environmen](https://www.kaggle.com/code/ialiasghar/plant-growth-milestone-prediction-using-environmen)
+- [Sentiment Analysis of Restaurant Reviews](https://www.kaggle.com/code/ialiasghar/sentiment-analysis-of-restaurant-reviews): Built a sentiment analysis model using Natural Language Processing (NLP) techniques to classify restaurant reviews as positive or negative.
+- [Plant Growth Milestone Prediction Using Environmental Factors](https://www.kaggle.com/code/ialiasghar/plant-growth-milestone-prediction-using-environmen): I analyzed environmental factors like sunlight, temperature, and humidity, and built multiple models to predict plant growth milestones and identify optimal growing conditions.
 
 
 ---
