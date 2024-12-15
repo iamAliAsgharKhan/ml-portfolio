@@ -4,13 +4,24 @@ Hi, I'm **Ali Asghar** – a **Consulting ML Engineer** with a passion for turni
 
 ---
 
+Great observation! Since your first two projects are hosted on Kaggle and involve specific machine learning models, while the latest one is a complete end-to-end system, you can organize your portfolio to highlight the distinction between **Model-Based Projects** and **End-to-End Systems**. Here's an updated structure:  
+
+---
+
 ## Projects
 
+### Model-Based Projects
 
-You can explore my **Kaggle Portfolio** to see the machine learning projects I've worked on:
+These projects showcase my expertise in building machine learning models and analyzing data for specific tasks:
 
 - [Sentiment Analysis of Restaurant Reviews](https://www.kaggle.com/code/ialiasghar/sentiment-analysis-of-restaurant-reviews): Built a sentiment analysis model using Natural Language Processing (NLP) techniques to classify restaurant reviews as positive or negative.
-- [Plant Growth Milestone Prediction Using Environmental Factors](https://www.kaggle.com/code/ialiasghar/plant-growth-milestone-prediction-using-environmen): I analyzed environmental factors like sunlight, temperature, and humidity, and built multiple models to predict plant growth milestones and identify optimal growing conditions.
+- [Plant Growth Milestone Prediction Using Environmental Factors](https://www.kaggle.com/code/ialiasghar/plant-growth-milestone-prediction-using-environmen): Analyzed environmental factors like sunlight, temperature, and humidity, and built multiple models to predict plant growth milestones and identify optimal growing conditions.
+
+### End-to-End Systems
+
+These projects demonstrate my ability to build complete systems for real-world applications:
+
+- [Groq-Powered RAG Webapp for Obsidian Files](https://github.com/iamAliAsgharKhan/Groq-Powered-RAG-Webapp-for-Obsidian-Files): Developed a web application using Groq's LLM for retrieval-augmented generation (RAG) to query and interact with Obsidian Markdown files. The system includes Markdown file indexing, context-aware query responses, real-time reindexing, and a responsive web-based interface.
 
 
 ---
