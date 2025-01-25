@@ -21,6 +21,15 @@ These projects showcase my expertise in building machine learning models and ana
 
 These projects demonstrate my ability to build complete systems for real-world applications:
 
+
+- **[HyperQuery - AI-Powered NL2SQL Interface](https://github.com/iamAliAsgharKhan/HyperQuery)**: Created an end-to-end system that converts natural language questions into SQL queries using Groq's Llama3-70B model. Features include:
+  - Dynamic schema awareness for SQLite databases
+  - Safe read-only query execution
+  - Interactive web interface with responsive HTML tables
+  - Full-stack implementation with FastAPI backend and vanilla JS frontend
+  - Pydantic validation for type-safe SQL generation
+
+
 - [Groq-Powered RAG Webapp for Obsidian Files](https://github.com/iamAliAsgharKhan/Groq-Powered-RAG-Webapp-for-Obsidian-Files): Developed a web application using Groq's LLM for retrieval-augmented generation (RAG) to query and interact with Obsidian Markdown files. The system includes Markdown file indexing, context-aware query responses, real-time reindexing, and a responsive web-based interface.
 
 
