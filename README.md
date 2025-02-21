@@ -16,7 +16,8 @@ These projects showcase my expertise in building machine learning models and ana
 
 - [Sentiment Analysis of Restaurant Reviews](https://www.kaggle.com/code/ialiasghar/sentiment-analysis-of-restaurant-reviews): Built a sentiment analysis model using Natural Language Processing (NLP) techniques to classify restaurant reviews as positive or negative.
 - [Plant Growth Milestone Prediction Using Environmental Factors](https://www.kaggle.com/code/ialiasghar/plant-growth-milestone-prediction-using-environmen): Analyzed environmental factors like sunlight, temperature, and humidity, and built multiple models to predict plant growth milestones and identify optimal growing conditions.
-
+- [Smartphone Pricing Trends and Clusters Insights](https://www.kaggle.com/code/ialiasghar/smartphone-pricing-trends-clusters-insights): Conducted an in-depth Exploratory Data Analysis (EDA) on smartphone pricing trends, identifying key features and clustering insights to understand market dynamics.
+  
 ### End-to-End Systems
 
 These projects demonstrate my ability to build complete systems for real-world applications:
