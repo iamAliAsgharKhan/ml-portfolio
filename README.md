@@ -64,6 +64,6 @@ Analyzing environmental factors to predict growth milestones.
 ## 📬 Contact
 I am available for full-stack AI engineering roles and consulting.
 
-- **Email**: aliasgharkhan@myemail.com
+- **Email**: aliasgharforwork@gmail.com
 - **LinkedIn**: [linkedin.com/in/iamaliasgharkhan](https://www.linkedin.com/in/iamaliasgharkhan/)
 - **GitHub**: [github.com/iamAliAsgharKhan](https://github.com/iamAliAsgharKhan)
